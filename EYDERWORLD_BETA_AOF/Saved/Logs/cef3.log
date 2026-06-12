@@ -1,2 +1,56 @@
-[0609/172027.195:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 27
-[0609/172209.211:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[29660:30548:0612/092517.350:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[29660:26356:0612/092517.376:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[29660:30548:0612/092517.385:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[8736:17176:0612/092521.041:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-B9ED52E05284E6A7C1FCEA58F20500EC will be ignored
+[22560:1652:0612/092521.724:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 6-F173CA8741F77D62A308B29937F216B8 will be ignored
+[19624:33372:0612/092521.841:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[29660:10248:0612/092523.502:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[29660:10248:0612/115859.011:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[29660:8752:0612/123755.089:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[27704:16332:0612/123755.091:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[29660:19188:0612/123800.092:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[27704:16332:0612/123800.100:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[29660:19188:0612/123810.096:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[27704:16332:0612/123810.106:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[29660:19188:0612/123830.101:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[27704:16332:0612/123830.113:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[27704:16332:0612/130406.375:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[29660:19188:0612/130406.378:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[29660:19188:0612/130411.381:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[27704:16332:0612/130411.385:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[29660:19188:0612/130421.385:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[27704:20040:0612/130421.395:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[29660:19188:0612/130441.389:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[27704:16332:0612/130441.404:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[29660:19188:0612/131500.499:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[27704:20040:0612/131500.515:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[29660:19188:0612/131505.506:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[27704:16332:0612/131505.536:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[29660:10248:0612/131507.619:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[29660:30548:0612/131514.588:ERROR:device_event_log_impl.cc(196)] [13:15:14.329] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[25136:13192:0612/140201.014:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 9-6B8ED69944621845F9C0E3760C4B72D4 will be ignored
+[19624:27444:0612/140245.485:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(103,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4_int)
+
+[19624:32960:0612/140245.610:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(136,1): warning X4000: use of potentially uninitialized variable (f_i_int_int_int2)
+C:\fakepath(138,1): warning X4000: use of potentially uninitialized variable (f_i_int_int_int2)
+C:\fakepath(174,1): warning X4000: use of potentially uninitialized variable (f_u_int_int_int)
+
+[19624:27444:0612/140246.269:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(166,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel_int)
+
+[19624:32960:0612/140246.273:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(166,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel_int)
+
+[19624:19960:0612/140246.277:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(166,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel_int)
+
+[19624:27132:0612/140246.282:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(166,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel_int)
+
+[19624:29568:0612/140426.866:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(382,11-39): warning X4008: floating point division by zero
+C:\fakepath(382,11-39): warning X4008: floating point division by zero
+
+[29660:30548:0612/145725.335:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
