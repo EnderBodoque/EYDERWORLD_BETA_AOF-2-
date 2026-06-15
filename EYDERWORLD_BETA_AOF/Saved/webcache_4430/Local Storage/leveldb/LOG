@@ -1,2 +1,12 @@
-2026/06/09-17:20:10.885 8914 Creating DB C:/Users/PC/Documents/GitHub/EYDERWORLD_BETA_AOF-2-/EYDERWORLD_BETA_AOF/Saved/webcache_4430\Local Storage\leveldb since it was missing.
-2026/06/09-17:20:10.941 8914 Reusing MANIFEST C:/Users/PC/Documents/GitHub/EYDERWORLD_BETA_AOF-2-/EYDERWORLD_BETA_AOF/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2026/06/14-18:21:42.047 50cc Reusing MANIFEST C:/Users/PC/Documents/GitHub/EYDERWORLD_BETA_AOF-2-/EYDERWORLD_BETA_AOF/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2026/06/14-18:21:42.058 50cc Recovering log #4
+2026/06/14-18:21:42.061 50cc Reusing old log C:/Users/PC/Documents/GitHub/EYDERWORLD_BETA_AOF-2-/EYDERWORLD_BETA_AOF/Saved/webcache_4430\Local Storage\leveldb/000004.log 
+2026/06/14-18:54:34.228 1678 Level-0 table #8: started
+2026/06/14-18:54:34.239 1678 Level-0 table #8: 71979 bytes OK
+2026/06/14-18:54:34.250 1678 Delete type=0 #4
+2026/06/14-18:57:45.712 4dec Level-0 table #10: started
+2026/06/14-18:57:45.743 4dec Level-0 table #10: 67682 bytes OK
+2026/06/14-18:57:45.755 4dec Delete type=0 #7
+2026/06/14-19:11:55.894 4dac Level-0 table #12: started
+2026/06/14-19:11:57.216 4dac Level-0 table #12: 77041 bytes OK
+2026/06/14-19:11:58.387 4dac Delete type=0 #9
